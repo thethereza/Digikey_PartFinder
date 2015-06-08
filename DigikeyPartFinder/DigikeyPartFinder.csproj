@@ -109,6 +109,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="btn_donate_SM.gif" />
+    <None Include="Capture.JPG" />
     <Content Include="Properties\search_wLE_icon.ico" />
     <Content Include="search_wLE_icon.ico" />
   </ItemGroup>

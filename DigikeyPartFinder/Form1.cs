@@ -260,6 +260,11 @@ namespace DigikeyPartFinder {
             System.Diagnostics.Process.Start("http://rethinkmedical.com/");
         }
 
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) {
+            System.Diagnostics.Process.Start(@"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GCYVFA8DT68P8");
+        }
+        
+
 
     }
 
